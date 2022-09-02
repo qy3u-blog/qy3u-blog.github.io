@@ -104,4 +104,7 @@ theme: apollo
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: git
+  repo: https://github.com/qy3u-blog/qy3u-blog.github.io
+  # example, https://github.com/hexojs/hexojs.github.io
+  branch: gh-pages
