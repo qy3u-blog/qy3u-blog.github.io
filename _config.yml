@@ -106,5 +106,4 @@ theme: apollo
 deploy:
   type: git
   repo: https://github.com/qy3u-blog/qy3u-blog.github.io
-  # example, https://github.com/hexojs/hexojs.github.io
   branch: gh-pages
