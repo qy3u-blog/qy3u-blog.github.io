@@ -97,8 +97,8 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-# theme: apollo
-remote_theme: qy3u-blog/hexo-theme-apollo
+theme: apollo
+# remote_theme: qy3u-blog/hexo-theme-apollo
 
 
 # Deployment
